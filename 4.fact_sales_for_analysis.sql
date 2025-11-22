@@ -1,5 +1,5 @@
 -- =============================================
--- Dimension Tables Creation
+-- Fact Tables Creation
 -- =============================================
 
 USE DATABASE db_ecommerce;
